@@ -1,0 +1,11 @@
+{
+	"name": "LS_CDS_SNS_RAW",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://daneuastashubjmtkfadrmst.dfs.core.windows.net/"
+		}
+	}
+}
